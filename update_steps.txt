@@ -1,0 +1,9 @@
+## Update Docker File
+- Lebel: docker image source
+
+## Update make file
+- IMAGE_REG to be changed
+- IMAGE_repo to be changed
+
+## Update Flask Version 
+- File path : src/requirement.txt
